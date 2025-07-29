@@ -10,3 +10,10 @@ Filippova N, Zvyagina E, Rudykina EA, Ishmanov TF, Filippov IV, Bulyonkova TM, D
 1) Download primary data (data.csv, metadata.csv, checklist.csv /data folder in this repository)
 2) Load and run Bog fun meta analysis.ipynb in Google Colabs or other environment
 3) Generated figures and tables are available in outpub
+
+**Data storage**
+
+Note: Data updates will only occur via GBIF repository
+
+Filippova N, Zvyagina E, Ishmanov T, Rudykina E, Dobrynina A (2024). eDNA-based occurrence dataset on peatland fungal communities studied by metabarcoding in Northwestern Siberia. Version 1.18. Yugra State University Biological Collection (YSU BC). Occurrence dataset https://doi.org/10.15468/s2pkfk accessed via GBIF.org on 2025-07-29.
+Filippova N. Peatland fungal communities studied by metabarcoding in north-western Siberia. NCBI SRA archive (PRJNA1007262). URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1007262
