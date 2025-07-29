@@ -5,6 +5,7 @@ The community analysis was performed in the Google Colab environment using data 
 **About the project**
 
 Filippova N, Zvyagina E, Rudykina EA, Ishmanov TF, Filippov IV, Bulyonkova TM, Dobrynina AS (2024) DNA-based occurrence dataset on peatland fungal communities studied by metabarcoding in north-western Siberia. Biodiversity Data Journal 12: e119851. https://doi.org/10.3897/BDJ.12.e119851
+Filippova N, Zvyagina E, Bulyonkova T, Dudka V, Ishmanov T, Mingalimova A (2025). Integrating classical and molecular approaches to uncover total fungal diversity in a raised peat bog in Northwestern Siberia. Metabarcoding and metagenomics. [in press]
 
 **How to use the script**
 1) Download primary data (data.csv, metadata.csv, checklist.csv /data folder in this repository)
