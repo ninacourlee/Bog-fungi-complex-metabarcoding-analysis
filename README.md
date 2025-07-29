@@ -1,4 +1,4 @@
-# Raised peat bog fungi complex metabarcoding analysis
+# Fungal metabarcoding analysis of raised peat bog
 Code for analyzing fungal community composition and structure in raised bogs using an integrated approach combining metabarcoding and classical observational methods.
 The community analysis was performed in the Google Colab environment using data processing packages (pandas, numpy, scipy), visualization tools (matplotlib, seaborn), bioinformatics libraries (scikit-bio), progress monitoring (tqdm), and other auxiliary libraries.
 
@@ -9,9 +9,9 @@ Filippova N, Zvyagina E, Rudykina EA, Ishmanov TF, Filippov IV, Bulyonkova TM, D
 Filippova N, Zvyagina E, Bulyonkova T, Dudka V, Ishmanov T, Mingalimova A (2025). Integrating classical and molecular approaches to uncover total fungal diversity in a raised peat bog in Northwestern Siberia. Metabarcoding and metagenomics. [in press]
 
 **How to use the script**
-1) Download primary data (data.csv, metadata.csv, checklist.csv /data folder in this repository)
-2) Load and run Bog fun meta analysis.ipynb in Google Colabs or other environment
-3) Generated figures and tables are available in /output folder in this repository
+1) Download processed OTU tables and metadata (data.csv, metadata.csv, checklist.csv) from /data folder in this repository
+2) Load and run Jupyter Notebook (`analysis.ipynb`) for Google Colab
+3) Generated Figures (PNG/PDF), statistical tables (CSV) are available in /output folder in this repository
 
 **Data storage**
 
