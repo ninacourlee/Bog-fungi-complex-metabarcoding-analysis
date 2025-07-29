@@ -13,7 +13,7 @@ Filippova N, Zvyagina E, Rudykina EA, Ishmanov TF, Filippov IV, Bulyonkova TM, D
 
 **Data storage**
 
-Note: Data updates will only occur via GBIF repository
+Note: Data updates will only occur via GBIF and NCBI SRA repositories
 
 Filippova N, Zvyagina E, Ishmanov T, Rudykina E, Dobrynina A (2024). eDNA-based occurrence dataset on peatland fungal communities studied by metabarcoding in Northwestern Siberia. Version 1.18. Yugra State University Biological Collection (YSU BC). Occurrence dataset https://doi.org/10.15468/s2pkfk accessed via GBIF.org on 2025-07-29.
 
