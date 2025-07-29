@@ -9,7 +9,7 @@ Filippova N, Zvyagina E, Rudykina EA, Ishmanov TF, Filippov IV, Bulyonkova TM, D
 **How to use the script**
 1) Download primary data (data.csv, metadata.csv, checklist.csv /data folder in this repository)
 2) Load and run Bog fun meta analysis.ipynb in Google Colabs or other environment
-3) Generated figures and tables are available in outpub
+3) Generated figures and tables are available in /output folder in this repository
 
 **Data storage**
 
