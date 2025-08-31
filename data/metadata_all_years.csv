@@ -1,0 +1,578 @@
+SampleID	SampleName	ID запусков	Number of reads	eventDate	month	day	Year	series	season	substrate	project	conservation	samplingApproach	extractionReplica	depth	depthModified	ecosystem	habitat	spill	locality	plotNumber	plantHost	Number of reads < 1500 (exclude from analysis)
+151	151	Евроген-151	954	31.05.2022	5	31	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 1	Rubus chamaemorus	1
+152	152	Евроген-152	1027	31.05.2022	5	31	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 1	Chamaedaphne calyculata	1
+153	153	Евроген-153	671	31.05.2022	5	31	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 1	Ledum palustre	1
+154	154	Евроген-154	682	31.05.2022	5	31	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 1	Andromeda polifolia	1
+155	155	Евроген-155	63293	31.05.2022	5	31	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 1	Eriophorum vaginatum	
+156	156	Евроген-156	74204	31.05.2022	5	31	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 1	Scheuchzeria palustris	
+157	157	Евроген-157	62976	01.07.2022	7	1	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 1	Rubus chamaemorus	
+158	158	Евроген-158	791	01.07.2022	7	1	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 1	Ledum palustre	1
+159	159	Евроген-159	786	01.07.2022	7	1	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 1	Andromeda polifolia	1
+160	160	Евроген-160	72025	01.07.2022	7	1	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 1	Scheuchzeria palustris	
+161	161	Евроген-161	64560	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 1	Rubus chamaemorus	
+162	162	Евроген-162	91010	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 1	Chamaedaphne calyculata	
+163	163	Евроген-163	107679	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 1	Ledum palustre	
+164	164	Евроген-164	115556	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 1	Andromeda polifolia	
+165	165	Евроген-165	94904	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 1	Eriophorum vaginatum	
+166	166	Евроген-166	92177	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 1	Scheuchzeria palustris	
+167	167	Евроген-167	119758	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 2	Rubus chamaemorus	
+168	168	Евроген-168	88523	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 2	Chamaedaphne calyculata	
+169	169	Евроген-169	125095	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 2	Ledum palustre	
+170	170	Евроген-170	135743	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 2	Andromeda polifolia	
+171	171	Евроген-171	141410	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 2	Eriophorum vaginatum	
+172	172	Евроген-172	145407	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 2	Scheuchzeria palustris	
+173	173	Евроген-173	103797	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 3	Rubus chamaemorus	
+174	174	Евроген-174	109513	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 3	Chamaedaphne calyculata	
+175	175	Евроген-175	122515	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Treed bog		Mukhrino	Hu 3	Ledum palustre	
+176	176	Евроген-176	117502	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 3	Andromeda polifolia	
+177	177	Евроген-177	90932	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 3	Eriophorum vaginatum	
+178	178	Евроген-178	87956	13.09.2022	9	13	2022	1		litter		Freezing, drying	Composite 5 g		na		peatland	Sphagnum lawn		Mukhrino	Ho 3	Scheuchzeria palustris	
+764	174	Синтол_25_174			6		2024	1		litter	bog plant fungi						peatland			Mukhrino	Andromeda polifolia-june	Andromeda polifolia	
+765	175	Синтол_25_175			7		2024	1		litter	bog plant fungi						peatland			Mukhrino	Andromeda polifolia-july	Andromeda polifolia	
+766	176	Синтол_25_176			8		2024	1		litter	bog plant fungi						peatland			Mukhrino	Andromeda polifolia-august	Andromeda polifolia	
+767	177	Синтол_25_177			6		2024	1		litter	bog plant fungi						peatland			Mukhrino	Ledum palustre-june	Ledum palustre	
+768	178	Синтол_25_178			7		2024	1		litter	bog plant fungi						peatland			Mukhrino	Ledum palustre-july	Ledum palustre	
+769	179	Синтол_25_179			8		2024	1		litter	bog plant fungi						peatland			Mukhrino	Ledum palustre-august	Ledum palustre	
+770	180	Синтол_25_180			6		2024	1		litter	bog plant fungi						peatland			Mukhrino	Oxycoccus palustris-june	Oxycoccus palustris	
+771	181	Синтол_25_181			7		2024	1		litter	bog plant fungi						peatland			Mukhrino	Oxycoccus palustris-july	Oxycoccus palustris	
+772	182	Синтол_25_182			8		2024	1		litter	bog plant fungi						peatland			Mukhrino	Oxycoccus palustris-august	Oxycoccus palustris	
+773	183	Синтол_25_183			6		2024	1		litter	bog plant fungi						peatland			Mukhrino	Rubus chamaemorus-june	Rubus chamaemorus	
+774	184	Синтол_25_184			7		2024	1		litter	bog plant fungi						peatland			Mukhrino	Rubus chamaemorus-july	Rubus chamaemorus	
+775	185	Синтол_25_185			8		2024	1		litter	bog plant fungi						peatland			Mukhrino	Rubus chamaemorus-august	Rubus chamaemorus	
+776	186	Синтол_25_186			6		2024	1		litter	bog plant fungi						peatland			Mukhrino	Eriophorum vaginatum-june	Eriophorum vaginatum	
+777	187	Синтол_25_187			7		2024	1		litter	bog plant fungi						peatland			Mukhrino	Eriophorum vaginatum-july	Eriophorum vaginatum	
+778	188	Синтол_25_188			7		2024	1		litter	bog plant fungi						peatland			Mukhrino	Scheuchzeria palustris-july	Scheuchzeria palustris	
+779	189	Синтол_25_189			8		2024	1		litter	bog plant fungi						peatland			Mukhrino	Scheuchzeria palustris-august	Scheuchzeria palustris	
+591	1	Синтол_25_1		22.08.2024	8	22	2024			litter	ural							березовое криволесье с лиственницей, с рябиной и ольховником в подлеске чернично-травяно-осочковый		Ner-Oyka	1		
+592	2	Синтол_25_2		22.08.2024	8	22	2024			litter	ural							березовое криволесье с лиственницей, с рябиной и ольховником в подлеске чернично-травяно-осочковый		Ner-Oyka	1		
+593	3	Синтол_25_3		22.08.2024	8	22	2024			litter	ural							березовое криволесье с лиственницей, с рябиной и ольховником в подлеске чернично-травяно-осочковый		Ner-Oyka	1		
+594	4	Синтол_25_4		22.08.2024	8	22	2024			litter	ural							березовое криволесье с лиственницей, с рябиной и ольховником в подлеске чернично-травяно-осочковый		Ner-Oyka	1		
+595	5	Синтол_25_5		22.08.2024	8	22	2024			litter	ural							березовое криволесье с лиственницей, с рябиной и ольховником в подлеске чернично-травяно-осочковый		Ner-Oyka	1		
+596	6	Синтол_25_6		23.08.2024	8	23	2024			litter	ural							кустарничково-лишайниковая тундра		Ner-Oyka	2		
+597	7	Синтол_25_7		23.08.2024	8	23	2024			litter	ural							кустарничково-лишайниковая тундра		Ner-Oyka	2		
+598	8	Синтол_25_8		23.08.2024	8	23	2024			litter	ural							кустарничково-лишайниковая тундра		Ner-Oyka	2		
+599	9	Синтол_25_9		23.08.2024	8	23	2024			litter	ural							кустарничково-лишайниковая тундра		Ner-Oyka	2		
+600	10	Синтол_25_10		23.08.2024	8	23	2024			litter	ural							кустарничково-лишайниковая тундра		Ner-Oyka	2		
+601	11	Синтол_25_11		25.08.2024	8	25	2024			litter	ural							березовое крупнотравно-вейниковое редолесье		Ner-Oyka	3		
+602	12	Синтол_25_12		25.08.2024	8	25	2024			litter	ural							березовое крупнотравно-вейниковое редолесье		Ner-Oyka	3		
+603	13	Синтол_25_13		25.08.2024	8	25	2024			litter	ural							березовое крупнотравно-вейниковое редолесье		Ner-Oyka	3		
+604	14	Синтол_25_14		25.08.2024	8	25	2024			litter	ural							березовое крупнотравно-вейниковое редолесье		Ner-Oyka	3		
+605	15	Синтол_25_15		25.08.2024	8	25	2024			litter	ural							березовое крупнотравно-вейниковое редолесье		Ner-Oyka	3		
+606	16	Синтол_25_16		26.08.2024	8	26	2024			litter	ural							ерниковая щучково-травяно-зеленомошная тундра		Ner-Oyka	4		
+607	17	Синтол_25_17		26.08.2024	8	26	2024			litter	ural							ерниковая щучково-травяно-зеленомошная тундра		Ner-Oyka	4		
+608	18	Синтол_25_18		26.08.2024	8	26	2024			litter	ural							ерниковая щучково-травяно-зеленомошная тундра		Ner-Oyka	4		
+609	19	Синтол_25_19		26.08.2024	8	26	2024			litter	ural							ерниковая щучково-травяно-зеленомошная тундра		Ner-Oyka	4		
+610	20	Синтол_25_20		27.08.2024	8	27	2024			litter	ural							высокогорное сфагновое болото на стоке грунтовых вод		Ner-Oyka	5		
+611	21	Синтол_25_21		27.08.2024	8	27	2024			litter	ural							высокогорное сфагновое болото на стоке грунтовых вод		Ner-Oyka	5		
+612	22	Синтол_25_22		27.08.2024	8	27	2024			litter	ural							высокогорное сфагновое болото на стоке грунтовых вод		Ner-Oyka	5		
+613	23	Синтол_25_23		27.08.2024	8	27	2024			litter	ural							высокогорное сфагновое болото на стоке грунтовых вод		Ner-Oyka	5		
+614	24	Синтол_25_24		27.08.2024	8	27	2024			litter	ural							высокогорное сфагновое болото на стоке грунтовых вод		Ner-Oyka	5		
+615	25	Синтол_25_25		26.08.2024	8	26	2024			litter	ural							луг		Ner-Oyka	6		
+616	26	Синтол_25_26		26.08.2024	8	26	2024			litter	ural							луг		Ner-Oyka	6		
+617	27	Синтол_25_27		26.08.2024	8	26	2024			litter	ural							луг		Ner-Oyka	6		
+618	28	Синтол_25_28		26.08.2024	8	26	2024			litter	ural							луг		Ner-Oyka	6		
+619	29	Синтол_25_29		26.08.2024	8	26	2024			litter	ural							луг		Ner-Oyka	6		
+620	30	Синтол_25_30		30.08.2024	8	30	2024			litter	ural							лиственничное травяное редколесье		Ner-Oyka	7		
+621	31	Синтол_25_31		30.08.2024	8	30	2024			litter	ural							лиственничное травяное редколесье		Ner-Oyka	7		
+622	32	Синтол_25_32		30.08.2024	8	30	2024			litter	ural							лиственничное травяное редколесье		Ner-Oyka	7		
+623	33	Синтол_25_33		30.08.2024	8	30	2024			litter	ural							лиственничное травяное редколесье		Ner-Oyka	7		
+624	34	Синтол_25_34		30.08.2024	8	30	2024			litter	ural							лиственничное травяное редколесье		Ner-Oyka	7		
+625	35	Синтол_25_35		31.08.2024	8	31	2024			litter	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+626	36	Синтол_25_36		31.08.2024	8	31	2024			litter	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+627	37	Синтол_25_37		31.08.2024	8	31	2024			litter	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+628	38	Синтол_25_38		31.08.2024	8	31	2024			litter	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+630	40	Синтол_25_40		31.08.2024	8	31	2024			litter	ural							кустарничково-зеленомошно-сфагновая тундра		Ner-Oyka	9		
+631	41	Синтол_25_41		31.08.2024	8	31	2024			litter	ural							кустарничково-зеленомошно-сфагновая тундра		Ner-Oyka	9		
+632	42	Синтол_25_42		31.08.2024	8	31	2024			litter	ural							кустарничково-зеленомошно-сфагновая тундра		Ner-Oyka	9		
+633	43	Синтол_25_43		31.08.2024	8	31	2024			litter	ural							кустарничково-зеленомошно-сфагновая тундра		Ner-Oyka	9		
+634	44	Синтол_25_44		31.08.2024	8	31	2024			litter	ural							кустарничково-зеленомошно-сфагновая тундра		Ner-Oyka	9		
+652	62	Синтол_25_62		26.08.2024	8	26	2024			litter	ural							ерниковая щучково-травяно-зеленомошная тундра		Ner-Oyka	4		
+675	85	Синтол_25_85		31.08.2024	8	31	2024			litter	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+685	95	Синтол_25_95					2024	6		litter bag	litter bag						peatland			Mukhrino		Eriophorum vaginatum	
+686	96	Синтол_25_96					2024	6		litter bag	litter bag						peatland			Mukhrino		Eriophorum vaginatum	
+687	97	Синтол_25_97					2024	6		litter bag	litter bag						peatland			Mukhrino		Sphagnum balticum	
+688	98	Синтол_25_98					2024	6		litter bag	litter bag						peatland			Mukhrino		Sphagnum balticum	
+689	99	Синтол_25_99					2024	6		litter bag	litter bag						peatland			Mukhrino		Eriophorum vaginatum	
+690	100	Синтол_25_100					2024	4		litter bag	litter bag						peatland			Mukhrino		Sphagnum balticum	
+691	101	Синтол_25_101					2024	4		litter bag	litter bag						peatland			Mukhrino		Sphagnum balticum	
+692	102	Синтол_25_102					2024	4		litter bag	litter bag						peatland			Mukhrino		Sphagnum fuscum	
+693	103	Синтол_25_103					2024	4		litter bag	litter bag						peatland			Mukhrino		Carex limosa	
+694	104	Синтол_25_104					2024	4		litter bag	litter bag						peatland			Mukhrino		Carex limosa	
+695	105	Синтол_25_105					2024	4		litter bag	litter bag						peatland			Mukhrino		Eriophorum vaginatum	
+696	106	Синтол_25_106					2024	4		litter bag	litter bag						peatland			Mukhrino		Eriophorum vaginatum	
+697	107	Синтол_25_107					2024	4		litter bag	litter bag						peatland			Mukhrino		Chamaedaphne calyculata	
+698	108	Синтол_25_108					2024	4		litter bag	litter bag						peatland			Mukhrino		Chamaedaphne calyculata	
+699	109	Синтол_25_109					2024	4		litter bag	litter bag						peatland			Mukhrino		Ledum palustre	
+700	110	Синтол_25_110					2024	4		litter bag	litter bag						peatland			Mukhrino		Ledum palustre	
+701	111	Синтол_25_111					2024	3		litter bag	litter bag						peatland			Mukhrino		Sphagnum fuscum	
+702	112	Синтол_25_112					2024	3		litter bag	litter bag						peatland			Mukhrino		Sphagnum fuscum	
+703	113	Синтол_25_113					2024	3		litter bag	litter bag						peatland			Mukhrino		Ledum palustre	
+704	114	Синтол_25_114					2024	3		litter bag	litter bag						peatland			Mukhrino		Ledum palustre	
+705	115	Синтол_25_115					2024	3		litter bag	litter bag						peatland			Mukhrino		Chamaedaphne calyculata	
+706	116	Синтол_25_116					2024	3		litter bag	litter bag						peatland			Mukhrino		Chamaedaphne calyculata	
+707	117	Синтол_25_117					2024	3		litter bag	litter bag						peatland			Mukhrino		Carex limosa	
+708	118	Синтол_25_118					2024	3		litter bag	litter bag						peatland			Mukhrino		Carex limosa	
+709	119	Синтол_25_119					2024	4		litter bag	litter bag						peatland			Mukhrino		Sphagnum fuscum	
+710	120	Синтол_25_120					2024	2		litter bag	litter bag						peatland			Mukhrino		Carex limosa	
+711	121	Синтол_25_121					2024	2		litter bag	litter bag						peatland			Mukhrino		Carex limosa	
+712	122	Синтол_25_122					2024	2		litter bag	litter bag						peatland			Mukhrino		Ledum palustre	
+713	123	Синтол_25_123					2024	2		litter bag	litter bag						peatland			Mukhrino		Ledum palustre	
+714	124	Синтол_25_124					2024	2		litter bag	litter bag						peatland			Mukhrino		Chamaedaphne calyculata	
+715	125	Синтол_25_125					2024	2		litter bag	litter bag						peatland			Mukhrino		Chamaedaphne calyculata	
+716	126	Синтол_25_126					2024	2		litter bag	litter bag						peatland			Mukhrino		Sphagnum balticum	
+717	127	Синтол_25_127					2024	2		litter bag	litter bag						peatland			Mukhrino		Sphagnum balticum	
+718	128	Синтол_25_128					2024	2		litter bag	litter bag						peatland			Mukhrino		Eriophorum vaginatum	
+719	129	Синтол_25_129					2024	2		litter bag	litter bag						peatland			Mukhrino		Eriophorum vaginatum	
+720	130	Синтол_25_130					2024	0		litter bag	litter bag						peatland			Mukhrino		Eriophorum vaginatum	
+721	131	Синтол_25_131					2024	0		litter bag	litter bag									Mukhrino		Populus tremula	
+722	132	Синтол_25_132					2024	0		litter bag	litter bag						peatland			Mukhrino		Chamaedaphne calyculata	
+723	133	Синтол_25_133					2024	0		litter bag	litter bag						peatland			Mukhrino			
+724	134	Синтол_25_134					2024	0		litter bag	litter bag									Mukhrino		Pinus sibirica	
+725	135	Синтол_25_135					2024	0		litter bag	litter bag						peatland			Mukhrino			
+726	136	Синтол_25_136					2024	0		litter bag	litter bag									Mukhrino		Betula pendula	
+727	137	Синтол_25_137					2024	0		litter bag	litter bag						peatland			Mukhrino		Rubus chamaemorus	
+1	1	Евроген-01	13727	11.07.2022	7	11	2022	1		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Pinus sylvestris	
+2	2	Евроген-02	21003	11.07.2022	7	11	2022	1		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Pinus sylvestris	
+3	3	Евроген-03	98688	11.07.2022	7	11	2022	1		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Larix sibirica	
+4	4	Евроген-04	3805	11.07.2022	7	11	2022	1		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Larix sibirica	
+5	5	Евроген-05	8524	11.07.2022	7	11	2022	1		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Betula	
+6	6	Евроген-06	46279	11.07.2022	7	11	2022	1		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Betula	
+31	31	Евроген-31	50033	16.07.2022	7	16	2022	1		mycopins		Drying	na		na			Coniferous forest		Shapsha		Pinus sylvestris	
+32	32	Евроген-32	66096	16.07.2022	7	16	2022	1		mycopins		Drying	na		na			Coniferous forest		Shapsha		Pinus sylvestris	
+33	33	Евроген-33	19369	16.07.2022	7	16	2022	1		mycopins		Drying	na		na			Coniferous forest		Shapsha		Larix sibirica	
+34	34	Евроген-34	41987	16.07.2022	7	16	2022	1		mycopins		Drying	na		na			Coniferous forest		Shapsha		Betula	
+55	55	Евроген-55	5321	14.07.2022	7	14	2022	1		mycopins		Drying	na		na			Aspen forest		Shapsha		Pinus sylvestris	
+56	56	Евроген-56	107375	14.07.2022	7	14	2022	1		mycopins		Drying	na		na			Aspen forest		Shapsha		Larix sibirica	
+57	57	Евроген-57	80610	14.07.2022	7	14	2022	1		mycopins		Drying	na		na			Aspen forest		Shapsha		Betula	
+67	67	Евроген-67	73876	16.07.2022	7	16	2022	1		mycopins		Drying	na		na			Birch sphagnum forest		Shapsha		Pinus sylvestris	
+68	68	Евроген-68	39274	16.07.2022	7	16	2022	1		mycopins		Drying	na		na			Birch sphagnum forest		Shapsha		Larix sibirica	
+69	69	Евроген-69	18828	16.07.2022	7	16	2022	1		mycopins		Drying	na		na			Birch sphagnum forest		Shapsha		Betula	
+7	7	Евроген-07	91524	26.07.2022	7	26	2022	2		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Pinus sylvestris	
+8	8	Евроген-08	84393	26.07.2022	7	26	2022	2		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Pinus sylvestris	
+9	9	Евроген-09	82148	26.07.2022	7	26	2022	2		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Larix sibirica	
+10	10	Евроген-10	12108	26.07.2022	7	26	2022	2		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Larix sibirica	
+11	11	Евроген-11	111264	26.07.2022	7	26	2022	2		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Betula	
+12	12	Евроген-12	78318	26.07.2022	7	26	2022	2		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Betula	
+35	35	Евроген-35	57559	02.08.2022	8	2	2022	2		mycopins		Drying	na		na			Coniferous forest		Shapsha		Pinus sylvestris	
+36	36	Евроген-36	17031	02.08.2022	8	2	2022	2		mycopins		Drying	na		na			Coniferous forest		Shapsha		Larix sibirica	
+37	37	Евроген-37	32588	02.08.2022	8	2	2022	2		mycopins		Drying	na		na			Coniferous forest		Shapsha		Betula	
+58	58	Евроген-58	56000	02.08.2022	8	2	2022	2		mycopins		Drying	na		na			Aspen forest		Shapsha		Pinus sylvestris	
+59	59	Евроген-59	37107	02.08.2022	8	2	2022	2		mycopins		Drying	na		na			Aspen forest		Shapsha		Larix sibirica	
+60	60	Евроген-60	16214	02.08.2022	8	2	2022	2		mycopins		Drying	na		na			Aspen forest		Shapsha		Betula	
+70	70	Евроген-70	63253	02.08.2022	8	2	2022	2		mycopins		Drying	na		na			Birch sphagnum forest		Shapsha		Pinus sylvestris	
+71	71	Евроген-71	64987	02.08.2022	8	2	2022	2		mycopins		Drying	na		na			Birch sphagnum forest		Shapsha		Larix sibirica	
+72	72	Евроген-72	35322	02.08.2022	8	2	2022	2		mycopins		Drying	na		na			Birch sphagnum forest		Shapsha		Betula	
+13	13	Евроген-13	98372	16.08.2022	8	16	2022	3		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Pinus sylvestris	
+14	14	Евроген-14	155097	16.08.2022	8	16	2022	3		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Pinus sylvestris	
+15	15	Евроген-15	72058	16.08.2022	8	16	2022	3		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Larix sibirica	
+16	16	Евроген-16	97847	16.08.2022	8	16	2022	3		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Larix sibirica	
+17	17	Евроген-17	104634	16.08.2022	8	16	2022	3		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Betula	
+18	18	Евроген-18	149782	16.08.2022	8	16	2022	3		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Betula	
+38	38	Евроген-38	61812	16.08.2022	8	16	2022	3		mycopins		Drying	na		na			Coniferous forest		Shapsha		Pinus sylvestris	
+39	39	Евроген-39	44011	16.08.2022	8	16	2022	3		mycopins		Drying	na		na			Coniferous forest		Shapsha		Larix sibirica	
+40	40	Евроген-40	46891	16.08.2022	8	16	2022	3		mycopins		Drying	na		na			Coniferous forest		Shapsha		Larix sibirica	
+41	41	Евроген-41	63559	16.08.2022	8	16	2022	3		mycopins		Drying	na		na			Coniferous forest		Shapsha		Betula	
+42	42	Евроген-42	56124	16.08.2022	8	16	2022	3		mycopins		Drying	na		na			Coniferous forest		Shapsha		Betula	
+61	61	Евроген-61	43892	16.08.2022	8	16	2022	3		mycopins		Drying	na		na			Aspen forest		Shapsha		Pinus sylvestris	
+62	62	Евроген-62	43035	16.08.2022	8	16	2022	3		mycopins		Drying	na		na			Aspen forest		Shapsha		Larix sibirica	
+63	63	Евроген-63	30063	16.08.2022	8	16	2022	3		mycopins		Drying	na		na			Aspen forest		Shapsha		Betula	
+73	73	Евроген-73	54330	16.08.2022	8	16	2022	3		mycopins		Drying	na		na			Birch sphagnum forest		Shapsha		Pinus sylvestris	
+74	74	Евроген-74	35230	16.08.2022	8	16	2022	3		mycopins		Drying	na		na			Birch sphagnum forest		Shapsha		Larix sibirica	
+75	75	Евроген-75	33054	16.08.2022	8	16	2022	3		mycopins		Drying	na		na			Birch sphagnum forest		Shapsha		Betula	
+19	19	Евроген-19	54807	31.08.2022	8	31	2022	4		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Pinus sylvestris	
+20	20	Евроген-20	27587	31.08.2022	8	31	2022	4		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Pinus sylvestris	
+21	21	Евроген-21	47102	31.08.2022	8	31	2022	4		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Larix sibirica	
+22	22	Евроген-22	54368	31.08.2022	8	31	2022	4		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Larix sibirica	
+23	23	Евроген-23	61773	31.08.2022	8	31	2022	4		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Betula	
+24	24	Евроген-24	279686	31.08.2022	8	31	2022	4		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Betula	
+43	43	Евроген-43	54175	06.09.2022	9	6	2022	4		mycopins		Drying	na		na			Coniferous forest		Shapsha		Pinus sylvestris	
+44	44	Евроген-44	48319	06.09.2022	9	6	2022	4		mycopins		Drying	na		na			Coniferous forest		Shapsha		Pinus sylvestris	
+45	45	Евроген-45	56578	06.09.2022	9	6	2022	4		mycopins		Drying	na		na			Coniferous forest		Shapsha		Larix sibirica	
+46	46	Евроген-46	108284	06.09.2022	9	6	2022	4		mycopins		Drying	na		na			Coniferous forest		Shapsha		Larix sibirica	
+47	47	Евроген-47	84930	06.09.2022	9	6	2022	4		mycopins		Drying	na		na			Coniferous forest		Shapsha		Betula	
+48	48	Евроген-48	144771	06.09.2022	9	6	2022	4		mycopins		Drying	na		na			Coniferous forest		Shapsha		Betula	
+64	64	Евроген-64	37053	09.09.2022	9	9	2022	4		mycopins		Drying	na		na			Aspen forest		Shapsha		Pinus sylvestris	
+65	65	Евроген-65	34503	09.09.2022	9	9	2022	4		mycopins		Drying	na		na			Aspen forest		Shapsha		Larix sibirica	
+66	66	Евроген-66	10980	09.09.2022	9	9	2022	4		mycopins		Drying	na		na			Aspen forest		Shapsha		Betula	
+76	76	Евроген-76	46132	09.09.2022	9	9	2022	4		mycopins		Drying	na		na			Birch sphagnum forest		Shapsha		Pinus sylvestris	
+77	77	Евроген-77	51228	09.09.2022	9	9	2022	4		mycopins		Drying	na		na			Birch sphagnum forest		Shapsha		Larix sibirica	
+78	78	Евроген-78	64830	09.09.2022	9	9	2022	4		mycopins		Drying	na		na			Birch sphagnum forest		Shapsha		Betula	
+25	25	Евроген-25	29919	14.09.2022	9	14	2022	5		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Pinus sylvestris	
+26	26	Евроген-26	58267	14.09.2022	9	14	2022	5		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Pinus sylvestris	
+27	27	Евроген-27	52552	14.09.2022	9	14	2022	5		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Larix sibirica	
+28	28	Евроген-28	35714	14.09.2022	9	14	2022	5		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Larix sibirica	
+29	29	Евроген-29	32548	14.09.2022	9	14	2022	5		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Betula	
+30	30	Евроген-30	84867	14.09.2022	9	14	2022	5		mycopins		Drying	na		na		peatland	Treed bog		Mukhrino		Betula	
+49	49	Евроген-49	55379	22.10.2022	10	22	2022	5		mycopins		Drying	na		na			Coniferous forest		Shapsha		Pinus sylvestris	
+50	50	Евроген-50	85912	22.10.2022	10	22	2022	5		mycopins		Drying	na		na			Coniferous forest		Shapsha		Pinus sylvestris	
+51	51	Евроген-51	55915	22.10.2022	10	22	2022	5		mycopins		Drying	na		na			Coniferous forest		Shapsha		Larix sibirica	
+52	52	Евроген-52	42365	22.10.2022	10	22	2022	5		mycopins		Drying	na		na			Coniferous forest		Shapsha		Larix sibirica	
+53	53	Евроген-53	44216	22.10.2022	10	22	2022	5		mycopins		Drying	na		na			Coniferous forest		Shapsha		Betula	
+54	54	Евроген-54	65774	22.10.2022	10	22	2022	5		mycopins		Drying	na		na			Coniferous forest		Shapsha		Betula	
+193	1	Синтол_1	111449	26.05.2023	5	26	2023	6		mycopins		Drying					peatland	Treed bog		Mukhrino		Pinus sylvestris	
+195	2	Синтол_2	74363	26.05.2023	5	26	2023	6		mycopins		Drying					peatland	Treed bog		Mukhrino		Larix sibirica	
+197	3	Синтол_3	125919	26.05.2023	5	26	2023	6		mycopins		Drying					peatland	Treed bog		Mukhrino		Betula	
+199	4	Синтол_4	203690	06.06.2023	6	6	2023	6		mycopins		Drying						Aspen forest		Shapsha		Pinus sylvestris	
+201	5	Синтол_5	62274	06.06.2023	6	6	2023	6		mycopins		Drying						Aspen forest		Shapsha		Larix sibirica	
+203	6	Синтол_6	111646	06.06.2023	6	6	2023	6		mycopins		Drying						Aspen forest		Shapsha		Betula	
+205	7	Синтол_7	112980	06.06.2023	6	6	2023	6		mycopins		Drying						Birch sphagnum forest		Shapsha		Pinus sylvestris	
+207	8	Синтол_8	122012	06.06.2023	6	6	2023	6		mycopins		Drying						Birch sphagnum forest		Shapsha		Larix sibirica	
+209	9	Синтол_9	109918	06.06.2023	6	6	2023	6		mycopins		Drying						Birch sphagnum forest		Shapsha		Betula	
+211	10	Синтол_10	63435	06.06.2023	6	6	2023	6		mycopins		Drying						Coniferous forest		Shapsha		Pinus sylvestris	
+213	11	Синтол_11	255167	06.06.2023	6	6	2023	6		mycopins		Drying						Coniferous forest		Shapsha		Larix sibirica	
+215	12	Синтол_12	269340	06.06.2023	6	6	2023	6		mycopins		Drying						Coniferous forest		Shapsha		Betula	
+217	13	Синтол_13	162391	15.06.2023	6	15	2023	7		mycopins		Drying					peatland	Treed bog		Mukhrino		Pinus sylvestris	
+219	14	Синтол_14	30718	15.06.2023	6	15	2023	7		mycopins		Drying					peatland	Treed bog		Mukhrino		Larix sibirica	
+221	15	Синтол_15	163843	15.06.2023	6	15	2023	7		mycopins		Drying					peatland	Treed bog		Mukhrino		Betula	
+223	16	Синтол_16	175070	22.06.2023	6	22	2023	7		mycopins		Drying						Aspen forest		Shapsha		Pinus sylvestris	
+225	17	Синтол_17	118954	22.06.2023	6	22	2023	7		mycopins		Drying						Aspen forest		Shapsha		Larix sibirica	
+227	18	Синтол_18	134249	22.06.2023	6	22	2023	7		mycopins		Drying						Aspen forest		Shapsha		Betula	
+229	19	Синтол_19	43372	22.06.2023	6	22	2023	7		mycopins		Drying						Birch sphagnum forest		Shapsha		Pinus sylvestris	
+231	20	Синтол_20	144326	22.06.2023	6	22	2023	7		mycopins		Drying						Birch sphagnum forest		Shapsha		Larix sibirica	
+233	21	Синтол_21	140796	22.06.2023	6	22	2023	7		mycopins		Drying						Birch sphagnum forest		Shapsha		Betula	
+235	22	Синтол_22	165772	22.06.2023	6	22	2023	7		mycopins		Drying						Coniferous forest		Shapsha		Pinus sylvestris	
+237	23	Синтол_23	92769	22.06.2023	6	22	2023	7		mycopins		Drying						Coniferous forest		Shapsha		Larix sibirica	
+239	24	Синтол_24	103694	22.06.2023	6	22	2023	7		mycopins		Drying						Coniferous forest		Shapsha		Betula	
+241	25	Синтол_25	114786	30.06.2023	6	30	2023	8		mycopins		Drying					peatland	Treed bog		Mukhrino		Pinus sylvestris	
+243	26	Синтол_26	48223	30.06.2023	6	30	2023	8		mycopins		Drying					peatland	Treed bog		Mukhrino		Larix sibirica	
+245	27	Синтол_27	138701	30.06.2023	6	30	2023	8		mycopins		Drying					peatland	Treed bog		Mukhrino		Betula	
+247	28	Синтол_28	136003	03.07.2023	7	3	2023	8		mycopins		Drying						Aspen forest		Shapsha		Pinus sylvestris	
+249	29	Синтол_29	114347	03.07.2023	7	3	2023	8		mycopins		Drying						Aspen forest		Shapsha		Larix sibirica	
+251	30	Синтол_30	121988	03.07.2023	7	3	2023	8		mycopins		Drying						Aspen forest		Shapsha		Betula	
+253	31	Синтол_31	144725	03.07.2023	7	3	2023	8		mycopins		Drying						Birch sphagnum forest		Shapsha		Pinus sylvestris	
+255	32	Синтол_32	131865	03.07.2023	7	3	2023	8		mycopins		Drying						Birch sphagnum forest		Shapsha		Larix sibirica	
+257	33	Синтол_33	121822	03.07.2023	7	3	2023	8		mycopins		Drying						Birch sphagnum forest		Shapsha		Betula	
+259	34	Синтол_34	134587	03.07.2023	7	3	2023	8		mycopins		Drying						Coniferous forest		Shapsha		Pinus sylvestris	
+261	35	Синтол_35	138026	03.07.2023	7	3	2023	8		mycopins		Drying						Coniferous forest		Shapsha		Larix sibirica	
+263	36	Синтол_36	89755	03.07.2023	7	3	2023	8		mycopins		Drying						Coniferous forest		Shapsha		Betula	
+265	37	Синтол_37	43733	16.07.2023	7	16	2023	9		mycopins		Drying					peatland	Treed bog		Mukhrino		Pinus sylvestris	
+267	38	Синтол_38	100416	16.07.2023	7	16	2023	9		mycopins		Drying					peatland	Treed bog		Mukhrino		Larix sibirica	
+269	39	Синтол_39	98093	16.07.2023	7	16	2023	9		mycopins		Drying					peatland	Treed bog		Mukhrino		Betula	
+271	40	Синтол_40	158447	20.07.2023	7	20	2023	9		mycopins		Drying						Aspen forest		Shapsha		Pinus sylvestris	
+273	41	Синтол_41	169569	20.07.2023	7	20	2023	9		mycopins		Drying						Aspen forest		Shapsha		Larix sibirica	
+275	42	Синтол_42	140469	20.07.2023	7	20	2023	9		mycopins		Drying						Aspen forest		Shapsha		Betula	
+277	43	Синтол_43	60127	20.07.2023	7	20	2023	9		mycopins		Drying						Birch sphagnum forest		Shapsha		Pinus sylvestris	
+279	44	Синтол_44	122945	20.07.2023	7	20	2023	9		mycopins		Drying						Birch sphagnum forest		Shapsha		Larix sibirica	
+281	45	Синтол_45	66578	20.07.2023	7	20	2023	9		mycopins		Drying						Birch sphagnum forest		Shapsha		Betula	
+283	46	Синтол_46	147880	20.07.2023	7	20	2023	9		mycopins		Drying						Coniferous forest		Shapsha		Pinus sylvestris	
+285	47	Синтол_47	189783	20.07.2023	7	20	2023	9		mycopins		Drying						Coniferous forest		Shapsha		Larix sibirica	
+287	48	Синтол_48	133566	20.07.2023	7	20	2023	9		mycopins		Drying						Coniferous forest		Shapsha		Betula	
+289	49	Синтол_49	108910	01.08.2023	8	1	2023	10		mycopins		Drying					peatland	Treed bog		Mukhrino		Pinus sylvestris	
+291	50	Синтол_50	50802	01.08.2023	8	1	2023	10		mycopins		Drying					peatland	Treed bog		Mukhrino		Larix sibirica	
+293	51	Синтол_51	84108	01.08.2023	8	1	2023	10		mycopins		Drying					peatland	Treed bog		Mukhrino		Betula	
+295	52	Синтол_52	149908	03.08.2023	8	3	2023	10		mycopins		Drying						Aspen forest		Shapsha		Pinus sylvestris	
+297	53	Синтол_53	81017	03.08.2023	8	3	2023	10		mycopins		Drying						Aspen forest		Shapsha		Larix sibirica	
+299	54	Синтол_54	123139	03.08.2023	8	3	2023	10		mycopins		Drying						Aspen forest		Shapsha		Betula	
+301	55	Синтол_55	107238	03.08.2023	8	3	2023	10		mycopins		Drying						Birch sphagnum forest		Shapsha		Pinus sylvestris	
+303	56	Синтол_56	136893	03.08.2023	8	3	2023	10		mycopins		Drying						Birch sphagnum forest		Shapsha		Larix sibirica	
+305	57	Синтол_57	106477	03.08.2023	8	3	2023	10		mycopins		Drying						Birch sphagnum forest		Shapsha		Betula	
+307	58	Синтол_58	151695	03.08.2023	8	3	2023	10		mycopins		Drying						Coniferous forest		Shapsha		Pinus sylvestris	
+309	59	Синтол_59	123333	03.08.2023	8	3	2023	10		mycopins		Drying						Coniferous forest		Shapsha		Larix sibirica	
+311	60	Синтол_60	137182	03.08.2023	8	3	2023	10		mycopins		Drying						Coniferous forest		Shapsha		Betula	
+313	61	Синтол_61	93975	13.08.2023	8	13	2023	11		mycopins		Drying					peatland	Treed bog		Mukhrino		Pinus sylvestris	
+315	62	Синтол_62	105197	13.08.2023	8	13	2023	11		mycopins		Drying					peatland	Treed bog		Mukhrino		Larix sibirica	
+317	63	Синтол_63	90908	13.08.2023	8	13	2023	11		mycopins		Drying					peatland	Treed bog		Mukhrino		Betula	
+319	64	Синтол_64	229484	16.08.2023	8	16	2023	11		mycopins		Drying						Aspen forest		Shapsha		Pinus sylvestris	
+321	65	Синтол_65	144101	16.08.2023	8	16	2023	11		mycopins		Drying						Aspen forest		Shapsha		Larix sibirica	
+323	66	Синтол_66	163947	16.08.2023	8	16	2023	11		mycopins		Drying						Aspen forest		Shapsha		Betula	
+325	67	Синтол_67	126325	16.08.2023	8	16	2023	11		mycopins		Drying						Birch sphagnum forest		Shapsha		Pinus sylvestris	
+327	68	Синтол_68	158483	16.08.2023	8	16	2023	11		mycopins		Drying						Birch sphagnum forest		Shapsha		Larix sibirica	
+329	69	Синтол_69	162155	16.08.2023	8	16	2023	11		mycopins		Drying						Birch sphagnum forest		Shapsha		Betula	
+331	70	Синтол_70	120935	16.08.2023	8	16	2023	11		mycopins		Drying						Coniferous forest		Shapsha		Pinus sylvestris	
+333	71	Синтол_71	122152	16.08.2023	8	16	2023	11		mycopins		Drying						Coniferous forest		Shapsha		Larix sibirica	
+335	72	Синтол_72	116834	16.08.2023	8	16	2023	11		mycopins		Drying						Coniferous forest		Shapsha		Betula	
+337	73	Синтол_73	145070	26.08.2023	8	26	2023	12		mycopins		Drying					peatland	Treed bog		Mukhrino		Pinus sylvestris	
+339	74	Синтол_74	119239	26.08.2023	8	26	2023	12		mycopins		Drying					peatland	Treed bog		Mukhrino		Larix sibirica	
+341	75	Синтол_75	115919	26.08.2023	8	26	2023	12		mycopins		Drying					peatland	Treed bog		Mukhrino		Betula	
+343	76	Синтол_76	102483	28.08.2023	8	28	2023	12		mycopins		Drying						Aspen forest		Shapsha		Pinus sylvestris	
+345	77	Синтол_77	141993	28.08.2023	8	28	2023	12		mycopins		Drying						Aspen forest		Shapsha		Larix sibirica	
+347	78	Синтол_78	89415	28.08.2023	8	28	2023	12		mycopins		Drying						Aspen forest		Shapsha		Betula	
+349	79	Синтол_79	145155	28.08.2023	8	28	2023	12		mycopins		Drying						Birch sphagnum forest		Shapsha		Pinus sylvestris	
+351	80	Синтол_80	129400	28.08.2023	8	28	2023	12		mycopins		Drying						Birch sphagnum forest		Shapsha		Larix sibirica	
+353	81	Синтол_81	109355	28.08.2023	8	28	2023	12		mycopins		Drying						Birch sphagnum forest		Shapsha		Betula	
+355	82	Синтол_82	137505	28.08.2023	8	28	2023	12		mycopins		Drying						Coniferous forest		Shapsha		Pinus sylvestris	
+357	83	Синтол_83	155019	28.08.2023	8	28	2023	12		mycopins		Drying						Coniferous forest		Shapsha		Larix sibirica	
+359	84	Синтол_84	129525	28.08.2023	8	28	2023	12		mycopins		Drying						Coniferous forest		Shapsha		Betula	
+361	85	Синтол_85	137482	13.09.2023	9	13	2023	13		mycopins		Drying					peatland	Treed bog		Mukhrino		Pinus sylvestris	
+363	86	Синтол_86	134223	13.09.2023	9	13	2023	13		mycopins		Drying					peatland	Treed bog		Mukhrino		Larix sibirica	
+365	87	Синтол_87	108927	13.09.2023	9	13	2023	13		mycopins		Drying					peatland	Treed bog		Mukhrino		Betula	
+367	88	Синтол_88	136990	15.09.2023	9	15	2023	13		mycopins		Drying						Aspen forest		Shapsha		Pinus sylvestris	
+369	89	Синтол_89	120614	15.09.2023	9	15	2023	13		mycopins		Drying						Aspen forest		Shapsha		Larix sibirica	
+371	90	Синтол_90	132308	15.09.2023	9	15	2023	13		mycopins		Drying						Aspen forest		Shapsha		Betula	
+373	91	Синтол_91	136049	15.09.2023	9	15	2023	13		mycopins		Drying						Birch sphagnum forest		Shapsha		Pinus sylvestris	
+375	92	Синтол_92	146519	15.09.2023	9	15	2023	13		mycopins		Drying						Birch sphagnum forest		Shapsha		Larix sibirica	
+377	93	Синтол_93	160177	15.09.2023	9	15	2023	13		mycopins		Drying						Birch sphagnum forest		Shapsha		Betula	
+379	94	Синтол_94	141931	15.09.2023	9	15	2023	13		mycopins		Drying						Coniferous forest		Shapsha		Pinus sylvestris	
+381	95	Синтол_95	108393	15.09.2023	9	15	2023	13		mycopins		Drying						Coniferous forest		Shapsha		Larix sibirica	
+383	96	Синтол_96	155184	15.09.2023	9	15	2023	13		mycopins		Drying						Coniferous forest		Shapsha		Betula	
+385	97	Синтол_97	132691	22.09.2023	9	22	2023	14		mycopins		Drying					peatland	Treed bog		Mukhrino		Pinus sylvestris	
+387	98	Синтол_98	120346	22.09.2023	9	22	2023	14		mycopins		Drying					peatland	Treed bog		Mukhrino		Larix sibirica	
+389	99	Синтол_99	122753	22.09.2023	9	22	2023	14		mycopins		Drying					peatland	Treed bog		Mukhrino		Betula	
+391	100	Синтол_100	110871	28.09.2023	9	28	2023	14		mycopins		Drying						Aspen forest		Shapsha		Pinus sylvestris	
+393	101	Синтол_101	113217	28.09.2023	9	28	2023	14		mycopins		Drying						Aspen forest		Shapsha		Larix sibirica	
+395	102	Синтол_102	64653	28.09.2023	9	28	2023	14		mycopins		Drying						Aspen forest		Shapsha		Betula	
+397	103	Синтол_103	85403	28.09.2023	9	28	2023	14		mycopins		Drying						Birch sphagnum forest		Shapsha		Pinus sylvestris	
+399	104	Синтол_104	136971	28.09.2023	9	28	2023	14		mycopins		Drying						Birch sphagnum forest		Shapsha		Larix sibirica	
+401	105	Синтол_105	142008	28.09.2023	9	28	2023	14		mycopins		Drying						Birch sphagnum forest		Shapsha		Betula	
+403	106	Синтол_106	103179	28.09.2023	9	28	2023	14		mycopins		Drying						Coniferous forest		Shapsha		Pinus sylvestris	
+405	107	Синтол_107	136791	28.09.2023	9	28	2023	14		mycopins		Drying						Coniferous forest		Shapsha		Larix sibirica	
+407	108	Синтол_108	122636	28.09.2023	9	28	2023	14		mycopins		Drying						Coniferous forest		Shapsha		Betula	
+409	109	Синтол_109	74118	03.10.2023	10	3	2023	14		mycopins		Drying					peatland	Treed bog		Mukhrino		Pinus sylvestris	
+411	110	Синтол_110	132668	03.10.2023	10	3	2023	14		mycopins		Drying					peatland	Treed bog		Mukhrino		Larix sibirica	
+413	111	Синтол_111	84496	03.10.2023	10	3	2023	14		mycopins		Drying					peatland	Treed bog		Mukhrino		Betula	
+111	111	Евроген-111	66974	31.05.2022	5	31	2022		spring	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sylv-01	Pinus sylvestris	
+112	112	Евроген-112	130445	31.05.2022	5	31	2022		spring	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sylv-02	Pinus sylvestris	
+113	113	Евроген-113	33847	31.05.2022	5	31	2022		spring	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sylv-03	Pinus sylvestris	
+114	114	Евроген-114	30154	31.05.2022	5	31	2022		spring	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sylv-04	Pinus sylvestris	
+115	115	Евроген-115	49148	31.05.2022	5	31	2022		spring	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sylv-05	Pinus sylvestris	
+116	116	Евроген-116	77051	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sylv-06	Pinus sylvestris	
+117	117	Евроген-117	23870	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sylv-07	Pinus sylvestris	
+118	118	Евроген-118	29032	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sylv-08	Pinus sylvestris	
+119	119	Евроген-119	70192	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sylv-09	Pinus sylvestris	
+120	120	Евроген-120	1412	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sylv-10	Pinus sylvestris	1
+121	121	Евроген-121	46649	31.05.2022	5	31	2022		spring	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sib-01	Pinus sibirica	
+122	122	Евроген-122	66362	31.05.2022	5	31	2022		spring	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sib-02	Pinus sibirica	
+123	123	Евроген-123	52937	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sib-03	Pinus sibirica	
+124	124	Евроген-124	56093	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sib-04	Pinus sibirica	
+125	125	Евроген-125	39179	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sib-05	Pinus sibirica	
+126	126	Евроген-126	64948	31.05.2022	5	31	2022		spring	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Shapsha	P-sylv-01	Pinus sylvestris	
+127	127	Евроген-127	52656	31.05.2022	5	31	2022		spring	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Shapsha	P-sylv-02	Pinus sylvestris	
+128	128	Евроген-128	52046	31.05.2022	5	31	2022		spring	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Shapsha	P-sylv-03	Pinus sylvestris	
+129	129	Евроген-129	65066	31.05.2022	5	31	2022		spring	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Shapsha	P-sylv-04	Pinus sylvestris	
+130	130	Евроген-130	62823	31.05.2022	5	31	2022		spring	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Shapsha	P-sylv-05	Pinus sylvestris	
+131	131	Евроген-131	136020	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Shapsha	P-sylv-06	Pinus sylvestris	
+132	132	Евроген-132	1353	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Shapsha	P-sylv-07	Pinus sylvestris	1
+133	133	Евроген-133	76180	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Shapsha	P-sylv-08	Pinus sylvestris	
+134	134	Евроген-134	82815	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Shapsha	P-sylv-09	Pinus sylvestris	
+135	135	Евроген-135	52556	31.05.2022	5	31	2022		spring	mycorrhiza		Freezing	na		na		peatland	Treed bog		Shapsha	P-sylv-10	Pinus sylvestris	
+136	136	Евроген-136	118190	13.09.2022	9	13	2022		autumn	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sylv-01	Pinus sylvestris	
+137	137	Евроген-137	93029	13.09.2022	9	13	2022		autumn	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sylv-02	Pinus sylvestris	
+138	138	Евроген-138	78507	13.09.2022	9	13	2022		autumn	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sylv-03	Pinus sylvestris	
+139	139	Евроген-139	81385	13.09.2022	9	13	2022		autumn	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sylv-04	Pinus sylvestris	
+140	140	Евроген-140	65478	13.09.2022	9	13	2022		autumn	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sylv-05	Pinus sylvestris	
+141	141	Евроген-141	34188	13.09.2022	9	13	2022		autumn	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sylv-06	Pinus sylvestris	
+142	142	Евроген-142	56816	13.09.2022	9	13	2022		autumn	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sylv-07	Pinus sylvestris	
+143	143	Евроген-143	62201	13.09.2022	9	13	2022		autumn	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sylv-08	Pinus sylvestris	
+144	144	Евроген-144	57705	13.09.2022	9	13	2022		autumn	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sylv-09	Pinus sylvestris	
+145	145	Евроген-145	78922	13.09.2022	9	13	2022		autumn	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sylv-10	Pinus sylvestris	
+146	146	Евроген-146	50156	13.09.2022	9	13	2022		autumn	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sib-01	Pinus sibirica	
+147	147	Евроген-147	51022	13.09.2022	9	13	2022		autumn	mycorrhiza		Freeze drying	na		na		peatland	Treed bog		Mukhrino	P-sib-02	Pinus sibirica	
+148	148	Евроген-148	145799	13.09.2022	9	13	2022		autumn	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sib-03	Pinus sibirica	
+149	149	Евроген-149	89043	13.09.2022	9	13	2022		autumn	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sib-04	Pinus sibirica	
+150	150	Евроген-150	90060	13.09.2022	9	13	2022		autumn	mycorrhiza		Freezing	na		na		peatland	Treed bog		Mukhrino	P-sib-05	Pinus sibirica	
+656	66	Синтол_25_66		27.08.2024	8	27	2024			peat	ural							высокогорное сфагновое болото на стоке грунтовых вод		Ner-Oyka	5		
+659	69	Синтол_25_69		27.08.2024	8	27	2024			peat	ural							высокогорное сфагновое болото на стоке грунтовых вод		Ner-Oyka	5		
+557	148	Синтол_148		25.07.2023	7	25	2023			peatspill		Freezing, drying					peatland	Raised bog	oil	Pyt-Yakh	Lapsh1		
+558	149	Синтол_149		25.07.2023	7	25	2023			peatspill		Freezing, drying					peatland	Raised bog	oil	Pyt-Yakh	Lapsh2		
+559	150	Синтол_150		25.07.2023	7	25	2023			peatspill		Freezing, drying					peatland	Raised bog	oil	Pyt-Yakh	Lapsh3		
+560	151	Синтол_151		25.07.2023	7	25	2023			peatspill		Freezing, drying					peatland	Raised bog	oil	Pyt-Yakh	Lapsh4		
+561	152	Синтол_152		25.07.2023	7	25	2023			peatspill		Freezing, drying					peatland	Raised bog	oil	Pyt-Yakh	Lapsh5		
+562	153	Синтол_153		25.07.2023	7	25	2023			peatspill		Freezing, drying					peatland	Raised bog	oil	Pyt-Yakh	Lapsh6		
+563	154	Синтол_154		25.07.2023	7	25	2023			peatspill		Freezing, drying					peatland	Raised bog	oil	Pyt-Yakh	Lapsh7		
+564	155	Синтол_155		25.07.2023	7	25	2023			peatspill		Freezing, drying					peatland	Raised bog	nodamage	Pyt-Yakh	Lapsh8		
+565	156	Синтол_156		29.08.2023	8	29	2023			peatspill		Freezing, drying					peatland	Raised bog	chloride	Pochechuyka	Poch1		
+566	157	Синтол_157		29.08.2023	8	29	2023			peatspill		Freezing, drying					peatland	Raised bog	chloride	Pochechuyka	Poch2b		
+567	158	Синтол_158		29.08.2023	8	29	2023			peatspill		Freezing, drying					peatland	Raised bog	oil	Pochechuyka	Poch4		
+568	159	Синтол_159		29.08.2023	8	29	2023			peatspill		Freezing, drying					peatland	Raised bog	oil	Pochechuyka	Poch5		
+569	160	Синтол_160		29.08.2023	8	29	2023			peatspill		Freezing, drying					peatland	Raised bog	oil	Pochechuyka	Poch6		
+570	161	Синтол_161		29.08.2023	8	29	2023			peatspill		Freezing, drying					peatland	Raised bog	oil	Pochechuyka	Poch8		
+571	162	Синтол_162		29.08.2023	8	29	2023			peatspill		Freezing, drying					peatland	Raised bog	oil	Pochechuyka	Poch11		
+572	163	Синтол_163		29.08.2023	8	29	2023			peatspill		Freezing, drying					peatland	Raised bog	chloride	Pochechuyka	Poch12		
+573	164	Синтол_164		29.08.2023	8	29	2023			peatspill		Freezing, drying					peatland	Raised bog	chloride	Pochechuyka	Poch13		
+574	165	Синтол_165		29.08.2023	8	29	2023			peatspill		Freezing, drying					peatland	Raised bog	chloride	Pochechuyka	Poch15		
+575	166	Синтол_166		29.08.2023	8	29	2023			peatspill		Freezing, drying					peatland	Raised bog	chloride	Pochechuyka	Poch16		
+576	167	Синтол_167		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	nodamage	Ermaki	Ermak114		
+577	168	Синтол_168		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	nodamage	Ermaki	Ermak115		
+578	169	Синтол_169		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	oilrecult	Ermaki	Ermak116		
+579	170	Синтол_170		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	nodamage	Ermaki	Ermak117		
+580	171	Синтол_171		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	oilrecult	Ermaki	Ermak118		
+581	172	Синтол_172		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	oilrecult	Ermaki	Ermak119		
+582	173	Синтол_173		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	oilrecult	Ermaki	Ermak120		
+583	174	Синтол_174		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	oilrecult	Ermaki	Ermak121		
+584	175	Синтол_175		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	nodamage	Ermaki	Ermak122		
+585	176	Синтол_176		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	oil	Ermaki	Ermak123		
+586	177	Синтол_177		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	nodamage	Ermaki	Ermak124		
+587	178	Синтол_178		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	oilrecult	Ermaki	Ermak125		
+588	179	Синтол_179		20.08.2023	8	20	2023			peatspill		Freezing, drying						Mesotrophic bog	oil	Ermaki	Ermak141		
+589	180	Синтол_180		20.08.2023	8	20	2023			peatspill		Freezing, drying								Ermaki	Ermak731		
+590	181	Синтол_181		20.08.2023	8	20	2023			peatspill		Freezing, drying								Ermaki	Ermak733		
+441	126	Синтол_126		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-790	4	peatland	Sphagnum lawn		Mukhrino	Ho 2		
+440	125	Синтол_125		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-770	4	peatland	Sphagnum lawn		Mukhrino	Ho 2		
+448	133	Синтол_133		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-735	4	peatland	Sphagnum lawn		Mukhrino	Ho 3		
+439	124	Синтол_124		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-730	4	peatland	Sphagnum lawn		Mukhrino	Ho 2		
+466	147	Синтол_147		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-685	4	peatland	Treed bog		Mukhrino	Hu 3		
+438	123	Синтол_123		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-650	4	peatland	Sphagnum lawn		Mukhrino	Ho 2		
+447	132	Синтол_132		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-650	4	peatland	Sphagnum lawn		Mukhrino	Ho 3		
+465	146	Синтол_146		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-635	4	peatland	Treed bog		Mukhrino	Hu 3		
+432	117	Синтол_117		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-625	4	peatland	Sphagnum lawn		Mukhrino	Ho 1		
+431	116	Синтол_116		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-550	4	peatland	Sphagnum lawn		Mukhrino	Ho 1		
+437	122	Синтол_122		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-550	4	peatland	Sphagnum lawn		Mukhrino	Ho 2		
+446	131	Синтол_131		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-550	4	peatland	Sphagnum lawn		Mukhrino	Ho 3		
+464	145	Синтол_145		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-550	4	peatland	Treed bog		Mukhrino	Hu 3		
+430	115	Синтол_115		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-450	3	peatland	Sphagnum lawn		Mukhrino	Ho 1		
+436	121	Синтол_121		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-450	3	peatland	Sphagnum lawn		Mukhrino	Ho 2		
+445	130	Синтол_130		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-450	3	peatland	Sphagnum lawn		Mukhrino	Ho 3		
+463	144	Синтол_144		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-450	3	peatland	Treed bog		Mukhrino	Hu 3		
+453	138	Синтол_138		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-390	3	peatland	Treed bog		Mukhrino	Hu 2		
+462	143	Синтол_143		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-390	3	peatland	Treed bog		Mukhrino	Hu 3		
+435	120	Синтол_120		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-370	3	peatland	Sphagnum lawn		Mukhrino	Ho 2		
+452	137	Синтол_137		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-365	3	peatland	Treed bog		Mukhrino	Hu 2		
+461	142	Синтол_142		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-365	3	peatland	Treed bog		Mukhrino	Hu 3		
+429	114	Синтол_114		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-350	3	peatland	Sphagnum lawn		Mukhrino	Ho 1		
+444	129	Синтол_129		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-350	3	peatland	Sphagnum lawn		Mukhrino	Ho 3		
+451	136	Синтол_136		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-325	3	peatland	Treed bog		Mukhrino	Hu 2		
+460	141	Синтол_141		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-325	3	peatland	Treed bog		Mukhrino	Hu 3		
+434	119	Синтол_119		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-270	2	peatland	Sphagnum lawn		Mukhrino	Ho 2		
+428	113	Синтол_113		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-250	2	peatland	Sphagnum lawn		Mukhrino	Ho 1		
+443	128	Синтол_128		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-250	2	peatland	Sphagnum lawn		Mukhrino	Ho 3		
+450	135	Синтол_135		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-250	2	peatland	Treed bog		Mukhrino	Hu 2		
+459	140	Синтол_140		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-250	2	peatland	Treed bog		Mukhrino	Hu 3		
+427	112	Синтол_112		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-150	1	peatland	Sphagnum lawn		Mukhrino	Ho 1		
+433	118	Синтол_118		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-150	1	peatland	Sphagnum lawn		Mukhrino	Ho 2		
+442	127	Синтол_127		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-150	1	peatland	Sphagnum lawn		Mukhrino	Ho 3		
+449	134	Синтол_134		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-150	1	peatland	Treed bog		Mukhrino	Hu 2		
+458	139	Синтол_139		15.09.2023	9	15	2023			peatstrat		Freezing, freeze-drying			-150	1	peatland	Treed bog		Mukhrino	Hu 3		
+97	97	Евроген-97	40680	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	2	- 0-2 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	
+101	101	Евроген-101	55772	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	2	- 0-2 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+179	179	Евроген-179	52364	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	1	- 0-2 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+183	183	Евроген-183	837	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	1	- 0-2 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	1
+99	99	Евроген-99	100858	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	2	- 10-15 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	
+103	103	Евроген-103	116953	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	2	- 10-15 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+181	181	Евроген-181	25231	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	1	- 10-15 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+185	185	Евроген-185	7888	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	1	- 10-15 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	
+79	79	Евроген-79	55329	31.05.2022	5	31	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 1	Sphagnum angustifolium	
+80	80	Евроген-80	76847	31.05.2022	5	31	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 2	Sphagnum magellanicum	
+81	81	Евроген-81	73187	31.05.2022	5	31	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+82	82	Евроген-82	56916	31.05.2022	5	31	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	
+83	83	Евроген-83	66362	31.05.2022	5	31	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 2	Sphagnum papillosum	
+84	84	Евроген-84	29537	31.05.2022	5	31	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 3	Sphagnum balticum	
+85	85	Евроген-85	88045	31.05.2022	5	31	2022			peatupper		Freeze drying	Single 0.25 g eppendorf		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 1	Sphagnum angustifolium	
+86	86	Евроген-86	74447	31.05.2022	5	31	2022			peatupper		Freeze drying	Single 0.25 g eppendorf		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 2	Sphagnum magellanicum	
+87	87	Евроген-87	78655	31.05.2022	5	31	2022			peatupper		Freeze drying	Single 0.25 g eppendorf		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+88	88	Евроген-88	77127	31.05.2022	5	31	2022			peatupper		Freeze drying	Single 0.25 g eppendorf		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	
+89	89	Евроген-89	23577	31.05.2022	5	31	2022			peatupper		Freeze drying	Single 0.25 g eppendorf		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 2	Sphagnum papillosum	
+90	90	Евроген-90	54379	31.05.2022	5	31	2022			peatupper		Freeze drying	Single 0.25 g eppendorf		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 3	Sphagnum balticum	
+91	91	Евроген-91	60275	01.07.2022	7	1	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 1	Sphagnum angustifolium	
+92	92	Евроген-92	49295	01.07.2022	7	1	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 2	Sphagnum magellanicum	
+93	93	Евроген-93	125071	01.07.2022	7	1	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+94	94	Евроген-94	128281	01.07.2022	7	1	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	
+95	95	Евроген-95	113384	01.07.2022	7	1	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 2	Sphagnum papillosum	
+96	96	Евроген-96	35133	01.07.2022	7	1	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 3	Sphagnum balticum	
+98	98	Евроген-98	38262	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	2	- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	
+102	102	Евроген-102	68252	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	2	- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+105	105	Евроген-105	111159	13.09.2022	9	13	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 1	Sphagnum angustifolium	
+106	106	Евроген-106	68730	13.09.2022	9	13	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 2	Sphagnum magellanicum	
+107	107	Евроген-107	101404	13.09.2022	9	13	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+108	108	Евроген-108	41322	13.09.2022	9	13	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	
+109	109	Евроген-109	55392	13.09.2022	9	13	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 2	Sphagnum papillosum	
+110	110	Евроген-110	33896	13.09.2022	9	13	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 3	Sphagnum balticum	
+180	180	Евроген-180	8355	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	1	- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+184	184	Евроген-184	836	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	1	- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	1
+187	187	Евроген-187	40787	13.09.2022	9	13	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 1	Sphagnum angustifolium	
+188	188	Евроген-188	5973	13.09.2022	9	13	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+189	189	Евроген-189	64954	13.09.2022	9	13	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 2	Sphagnum magellanicum	
+190	190	Евроген-190	11481	13.09.2022	9	13	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 3	Sphagnum balticum	
+191	191	Евроген-191	13307	13.09.2022	9	13	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	
+192	192	Евроген-192	232	13.09.2022	9	13	2022			peatupper		Freeze drying	Composite 5 g		- 2-5 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 2	Sphagnum papillosum	1
+100	100	Евроген-100	45741	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	2	- 25-30 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	
+104	104	Евроген-104	105676	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	2	- 25-30 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+182	182	Евроген-182	57685	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	1	- 25-30 cm		peatland	Treed bog	nodamage	Mukhrino	Hu 3	Sphagnum fuscum	
+186	186	Евроген-186	38501	04.08.2022	8	4	2022			peatupper		Freeze drying	Composite 5 g	1	- 25-30 cm		peatland	Sphagnum lawn	nodamage	Mukhrino	Ho 1	Sphagnum jensenii	
+780	190	Синтол_25_190					2024			school samples	school										"1, 2, 3, 7, 9, 27, 39, 56, 74, 93, 132
+"		
+781	191	Синтол_25_191					2024			school samples	school										"13, 32, 44, 45, 61, 68, 78, 92, 97, 121, 141
+"		
+782	192	Синтол_25_192					2024			school samples	school										38, 40, 48, 71, 72, 73, 80, 102, 119, 122, 147		
+783	193	Синтол_25_193					2024			school samples	school										15, 19, 23, 26, 50, 54, 75, 103, 106, 112, 114		
+784	194	Синтол_25_194					2024			school samples	school										"12, 30, 46, 47, 53, 59, 67, 70, 85, 116, 117
+
+"		
+785	195	Синтол_25_195					2024			school samples	school										16, 18, 42, 57, 65, 69, 76, 83, 90, 118, 120		
+786	196	Синтол_25_196					2024			school samples	school										8, 10, 20, 22, 24, 35, 58, 99, 100, 108, 111, 113		
+787	197	Синтол_25_197					2024			school samples	school										11, 25, 29, 31, 36, 82, 84, 87, 98, 101, 104, 115		
+788	198	Синтол_25_198					2024			school samples	school										4, 5, 28, 37, 55, 62, 63, 66, 77, 79, 88, 91		
+789	199	Синтол_25_199					2024			school samples	school										6, 14, 21, 33, 34, 49, 51, 81, 89, 94, 96, 107		
+790	200	Синтол_25_200					2024			school samples	school										17, 41, 52, 60, 64, 86, 95, 105, 109, 110		
+629	39	Синтол_25_39		31.08.2024	8	31	2024			soil	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+635	45	Синтол_25_45		22.08.2024	8	22	2024			soil	ural							березовое криволесье с лиственницей, с рябиной и ольховником в подлеске чернично-травяно-осочковый		Ner-Oyka	1		
+636	46	Синтол_25_46		22.08.2024	8	22	2024			soil	ural							березовое криволесье с лиственницей, с рябиной и ольховником в подлеске чернично-травяно-осочковый		Ner-Oyka	1		
+637	47	Синтол_25_47		22.08.2024	8	22	2024			soil	ural							березовое криволесье с лиственницей, с рябиной и ольховником в подлеске чернично-травяно-осочковый		Ner-Oyka	1		
+638	48	Синтол_25_48		22.08.2024	8	22	2024			soil	ural							березовое криволесье с лиственницей, с рябиной и ольховником в подлеске чернично-травяно-осочковый		Ner-Oyka	1		
+639	49	Синтол_25_49		22.08.2024	8	22	2024			soil	ural							березовое криволесье с лиственницей, с рябиной и ольховником в подлеске чернично-травяно-осочковый		Ner-Oyka	1		
+640	50	Синтол_25_50		23.08.2024	8	23	2024			soil	ural							кустарничково-лишайниковая тундра		Ner-Oyka	2		
+641	51	Синтол_25_51		23.08.2024	8	23	2024			soil	ural							кустарничково-лишайниковая тундра		Ner-Oyka	2		
+642	52	Синтол_25_52		23.08.2024	8	23	2024			soil	ural							кустарничково-лишайниковая тундра		Ner-Oyka	2		
+643	53	Синтол_25_53		23.08.2024	8	23	2024			soil	ural							кустарничково-лишайниковая тундра		Ner-Oyka	2		
+644	54	Синтол_25_54		23.08.2024	8	23	2024			soil	ural							кустарничково-лишайниковая тундра		Ner-Oyka	2		
+645	55	Синтол_25_55		25.08.2024	8	25	2024			soil	ural							березовое крупнотравно-вейниковое редолесье		Ner-Oyka	3		
+646	56	Синтол_25_56		25.08.2024	8	25	2024			soil	ural							березовое крупнотравно-вейниковое редолесье		Ner-Oyka	3		
+647	57	Синтол_25_57		25.08.2024	8	25	2024			soil	ural							березовое крупнотравно-вейниковое редолесье		Ner-Oyka	3		
+648	58	Синтол_25_58		25.08.2024	8	25	2024			soil	ural							березовое крупнотравно-вейниковое редолесье		Ner-Oyka	3		
+649	59	Синтол_25_59		25.08.2024	8	25	2024			soil	ural							березовое крупнотравно-вейниковое редолесье		Ner-Oyka	3		
+650	60	Синтол_25_60		26.08.2024	8	26	2024			soil	ural							ерниковая щучково-травяно-зеленомошная тундра		Ner-Oyka	4		
+651	61	Синтол_25_61		26.08.2024	8	26	2024			soil	ural							ерниковая щучково-травяно-зеленомошная тундра		Ner-Oyka	4		
+653	63	Синтол_25_63		26.08.2024	8	26	2024			soil	ural							ерниковая щучково-травяно-зеленомошная тундра		Ner-Oyka	4		
+654	64	Синтол_25_64		26.08.2024	8	26	2024			soil	ural							ерниковая щучково-травяно-зеленомошная тундра		Ner-Oyka	4		
+655	65	Синтол_25_65		26.08.2024	8	26	2024			soil	ural							ерниковая щучково-травяно-зеленомошная тундра		Ner-Oyka	4		
+657	67	Синтол_25_67		27.08.2024	8	27	2024			soil	ural							высокогорное сфагновое болото на стоке грунтовых вод		Ner-Oyka	5		
+658	68	Синтол_25_68		27.08.2024	8	27	2024			soil	ural							высокогорное сфагновое болото на стоке грунтовых вод		Ner-Oyka	5		
+660	70	Синтол_25_70		27.08.2024	8	27	2024			soil	ural							высокогорное сфагновое болото на стоке грунтовых вод		Ner-Oyka	5		
+661	71	Синтол_25_71		26.08.2024	8	26	2024			soil	ural							луг		Ner-Oyka	6		
+662	72	Синтол_25_72		26.08.2024	8	26	2024			soil	ural							луг		Ner-Oyka	6		
+663	73	Синтол_25_73		26.08.2024	8	26	2024			soil	ural							луг		Ner-Oyka	6		
+664	74	Синтол_25_74		26.08.2024	8	26	2024			soil	ural							луг		Ner-Oyka	6		
+665	75	Синтол_25_75		26.08.2024	8	26	2024			soil	ural							луг		Ner-Oyka	6		
+666	76	Синтол_25_76		30.08.2024	8	30	2024			soil	ural							лиственничное травяное редколесье		Ner-Oyka	7		
+667	77	Синтол_25_77		30.08.2024	8	30	2024			soil	ural							лиственничное травяное редколесье		Ner-Oyka	7		
+668	78	Синтол_25_78		30.08.2024	8	30	2024			soil	ural							лиственничное травяное редколесье		Ner-Oyka	7		
+669	79	Синтол_25_79		30.08.2024	8	30	2024			soil	ural							лиственничное травяное редколесье		Ner-Oyka	7		
+670	80	Синтол_25_80		30.08.2024	8	30	2024			soil	ural							лиственничное травяное редколесье		Ner-Oyka	7		
+671	81	Синтол_25_81		31.08.2024	8	31	2024			soil	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+672	82	Синтол_25_82		31.08.2024	8	31	2024			soil	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+673	83	Синтол_25_83		31.08.2024	8	31	2024			soil	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+674	84	Синтол_25_84		31.08.2024	8	31	2024			soil	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+676	86	Синтол_25_86		31.08.2024	8	31	2024			soil	ural							кустарничково-зеленомошно-сфагновая тундра		Ner-Oyka	9		
+677	87	Синтол_25_87		31.08.2024	8	31	2024			soil	ural							кустарничково-зеленомошно-сфагновая тундра		Ner-Oyka	9		
+678	88	Синтол_25_88		31.08.2024	8	31	2024			soil	ural							кустарничково-зеленомошно-сфагновая тундра		Ner-Oyka	9		
+679	89	Синтол_25_89		31.08.2024	8	31	2024			soil	ural							кустарничково-зеленомошно-сфагновая тундра		Ner-Oyka	9		
+680	90	Синтол_25_90		31.08.2024	8	31	2024			stones	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+681	91	Синтол_25_91		31.08.2024	8	31	2024			stones	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+682	92	Синтол_25_92		31.08.2024	8	31	2024			stones	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+683	93	Синтол_25_93		31.08.2024	8	31	2024			stones	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+684	94	Синтол_25_94		31.08.2024	8	31	2024			stones	ural							кустарничково-лишайниково-каменистая тундра		Ner-Oyka	8		
+728	138	Синтол_25_138					2024				vipgz									Mukhrino	1		
+729	139	Синтол_25_139					2024				vipgz									Mukhrino	1		
+730	140	Синтол_25_140					2024				vipgz									Mukhrino	1		
+731	141	Синтол_25_141					2024				vipgz									Mukhrino	2		
+732	142	Синтол_25_142					2024				vipgz									Mukhrino	2		
+733	143	Синтол_25_143					2024				vipgz									Mukhrino	2		
+734	144	Синтол_25_144					2024				vipgz									Mukhrino	3		
+735	145	Синтол_25_145					2024				vipgz									Mukhrino	3		
+736	146	Синтол_25_146					2024				vipgz									Mukhrino	3		
+737	147	Синтол_25_147					2024				vipgz									Mukhrino	4		
+738	148	Синтол_25_148					2024				vipgz									Mukhrino	4		
+739	149	Синтол_25_149					2024				vipgz									Mukhrino	4		
+740	150	Синтол_25_150					2024				vipgz									Mukhrino	5		
+741	151	Синтол_25_151					2024				vipgz									Mukhrino	5		
+742	152	Синтол_25_152					2024				vipgz									Mukhrino	5		
+743	153	Синтол_25_153					2024				vipgz									Mukhrino	5		
+744	154	Синтол_25_154					2024				vipgz									Mukhrino	6		
+745	155	Синтол_25_155					2024				vipgz									Mukhrino	6		
+746	156	Синтол_25_156					2024				vipgz									Mukhrino	1		
+747	157	Синтол_25_157					2024				vipgz									Mukhrino	1		
+748	158	Синтол_25_158					2024				vipgz									Mukhrino	1		
+749	159	Синтол_25_159					2024				vipgz									Mukhrino	2		
+750	160	Синтол_25_160					2024				vipgz									Mukhrino	2		
+751	161	Синтол_25_161					2024				vipgz									Mukhrino	2		
+752	162	Синтол_25_162					2024				vipgz									Mukhrino	3		
+753	163	Синтол_25_163					2024				vipgz									Mukhrino	3		
+754	164	Синтол_25_164					2024				vipgz									Mukhrino	3		
+755	165	Синтол_25_165					2024				vipgz									Mukhrino	4		
+756	166	Синтол_25_166					2024				vipgz									Mukhrino	4		
+757	167	Синтол_25_167					2024				vipgz									Mukhrino	4		
+758	168	Синтол_25_168					2024				vipgz									Mukhrino	5		
+759	169	Синтол_25_169					2024				vipgz									Mukhrino	5		
+760	170	Синтол_25_170					2024				vipgz									Mukhrino	5		
+761	171	Синтол_25_171					2024				vipgz									Mukhrino	6		
+762	172	Синтол_25_172					2024				vipgz									Mukhrino	6		
+763	173	Синтол_25_173					2024				vipgz									Mukhrino	6		
